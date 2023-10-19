@@ -18,6 +18,8 @@ Download pretrained ViT from [here](https://download.pytorch.org/models/resnet15
 
 Download pretrained Twitter Word Embedding from [here](https://flair.informatik.hu-berlin.de/resources/embeddings/token/twitter.gensim.vectors.npy) and put it in [this directory](resources/embeddings).
 
+Download our pretrained ours from [here](https://drive.google.com/file/d/1LYdAN8nje18frwa3ZJrC-JQxrh_COrgg/view?usp=share_link) and put it in [this directory](resources/pretrain/models).
+https://drive.google.com/file/d/1LYdAN8nje18frwa3ZJrC-JQxrh_COrgg/view?usp=share_link
 
 ## Usage
 ### Pretrain
